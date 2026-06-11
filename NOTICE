@@ -1,0 +1,9 @@
+BlueLens includes Tcl utility code from the BSC Development Workstation (BDW).
+
+Copyright (c) 2020 Bluespec, Inc. All rights reserved.
+Licensed under the BSD 3-Clause License.
+
+Source: https://github.com/B-Lang-org/bdw
+Vendored from commit: 882349b1933df0f440fcaa8c69dd81298475d90a
+
+The complete license text is in vendor/bdw/BDW-BSD-3-Clause.txt.
